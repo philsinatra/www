@@ -1,0 +1,19 @@
+{
+  "name": "philsinatra",
+  "description": "Public website",
+  "version": "1.0.0",
+  "author": {
+    "name": "Phil Sinatra",
+    "url": "https://www.philsinatra.com",
+    "email": "code@philsinatra.com"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:philsinatra/www.git"
+  },
+  "devDependencies": {
+    "stylelint": "^16.3.0",
+    "stylelint-config-standard": "^36.0.0"
+  }
+}

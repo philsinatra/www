@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "Phil Sinatra",
+  "short_name": "sinatra",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#eb5729",
-  "background_color": "#0b0b0b",
+  "theme_color": "#fafafa",
+  "background_color": "#010101",
   "display": "standalone"
 }
